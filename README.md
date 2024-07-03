@@ -1,6 +1,6 @@
 # Hola, soy Clara Fernández Fraga 👋
 
-Soy una persona súper curiosa a la que le encanta entender cómo funcionan las cosas. Nunca me conformo con "está roto" o "no funciona"; siempre busco comprender a fondo el problema para intentar resolverlo. Tengo interesews muy variados, desde la fabricación de hachas hasta la programación web, la cual estoy aprendiedndo desde 2023, cuando escribí mi primer ``Hola Mundo`` en Python.
+Soy una persona súper curiosa a la que le encanta entender cómo funcionan las cosas. Nunca me conformo con "está roto" o "no funciona"; siempre busco comprender a fondo el problema para intentar resolverlo. Tengo intereses muy variados, desde la fabricación de hachas hasta la programación web, la cual estoy aprendiedndo desde 2023, cuando escribí mi primer ``Hola Mundo`` en Python.
 Actualmente, me enfoco en crear código limpio, mantenible y accesible, siempre priorizando la calidad del código aplicando los principios de SOLID.
 
 ## 🔧 Tecnologías y Herramientas
@@ -22,6 +22,22 @@ Actualmente, me enfoco en crear código limpio, mantenible y accesible, siempre 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Vite](https://vitejs.dev/)
+- [Python](https://www.python.org/)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Sass](https://sass-lang.com/)
+- [Cypress](https://www.cypress.io/)
+- [Testing Library](https://testing-library.com/)
+- [Jest](https://jestjs.io/)
+- [Git](https://git-scm.com/)
 ## 📈 GitHub Stats
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sayloryna&show_icons=true&theme=radical)
